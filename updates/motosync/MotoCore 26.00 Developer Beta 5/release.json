@@ -1,10 +1,10 @@
 {
   "title": "MotoCore 26.00 Developer Beta 5",
   "version": "MotoCore 26.00 Developer Beta 5",
-  "changelog": "******",
+  "changelog": "*****************",
   "forceUpdate": false,
-  "zipSha256": "d6f31b97c9d3148b242719557a4062e3ab7f33b606f3abdd5cf5a597679ec6f1",
-  "sizeBytes": 4083305,
+  "zipSha256": "c25ece3bb30d3bb5c19641e73e02a785b255f80095aa8414ac54b6b81cb4923a",
+  "sizeBytes": 4083432,
   "files": [
     {
       "path": "estimate-html.js",
@@ -16,7 +16,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "f93329d7a92d2142fabaeabc770b37225aee6f6e9f8a2b5e49ea1aefec0403fb"
+      "sha256": "514eeb83778878d9e1d393928cef19248df29c2cc038f38445f52f5eb187f16f"
     },
     {
       "path": "main-bootloader.js",
@@ -36,7 +36,7 @@
     },
     {
       "path": "preload.js",
-      "sha256": "500ea29afdff0c11e5e3ea43dc494ec57001176aefb0fb33aee6c52d6c2ba49f"
+      "sha256": "e4787313edf233cdbef4f3d661feb8c80850eb824c2841d272359c87565cd120"
     },
     {
       "path": "renderer.js",
