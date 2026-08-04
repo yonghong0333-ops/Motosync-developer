@@ -1,9 +1,9 @@
 {
   "title": "MotoCore 26.00 Developer Beta 8",
   "version": "MotoCore 26.00 Developer Beta 8",
-  "changelog": "*****************",
+  "changelog": "",
   "forceUpdate": false,
-  "zipSha256": "6e4a10e65d10d3929eeb1e5184eb97e7182a774eef5fe3d2143f6c162b0b07d6",
+  "zipSha256": "282e728cbfbbf064a4b185c7ffa5d2866d7e46a149d74a09820951c162cdd124",
   "sizeBytes": 4083432,
   "files": [
     {
