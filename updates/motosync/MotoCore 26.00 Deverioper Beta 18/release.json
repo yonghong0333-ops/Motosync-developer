@@ -3,8 +3,8 @@
   "version": "MotoCore 26.00 Deverioper Beta 18",
   "changelog": "",
   "forceUpdate": false,
-  "zipSha256": "4c7f5e4e2c09e1520c910d908702febd71ed0ccc6e348fc837c0a3e8e5942b06",
-  "sizeBytes": 4088043,
+  "zipSha256": "8ab15291b907f9830eb11e623c7558bd1a370f6de5086ae231d4d2af1a033ee3",
+  "sizeBytes": 4088225,
   "files": [
     {
       "path": "estimate-html.js",
@@ -40,7 +40,7 @@
     },
     {
       "path": "renderer.js",
-      "sha256": "449fbf5fd5380ae88bc199a1a246d13b406eed6623cb8f6f2e9de24944c42c1e"
+      "sha256": "d34d760869fa5e29ca48a6a74632d546d32301e2b5fdf4c2164a56114beb6842"
     },
     {
       "path": "node_modules/xml-naming/LICENSE",
