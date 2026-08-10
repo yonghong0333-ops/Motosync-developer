@@ -3,8 +3,8 @@
   "version": "MotoCore 26.00 Public Beta 13",
   "changelog": "",
   "forceUpdate": false,
-  "zipSha256": "6ceeebac2117e40728ec13d1ed1be058a2cba56109ae480d65cbe537a2dde8fc",
-  "sizeBytes": 4105030,
+  "zipSha256": "c435f26d655587477e8ca1419f097e66371e6b81abd5eee4b9d8a4b9f8c6927f",
+  "sizeBytes": 4105320,
   "files": [
     {
       "path": "estimate-html.js",
@@ -40,7 +40,7 @@
     },
     {
       "path": "renderer.js",
-      "sha256": "9de94244b425aa9da4e73c7d69565dd6fdc23e2e15ca9154a877aea070706e63"
+      "sha256": "61a6c353c83be1806bb40fc56e0033f256c2df330add149e0967967a1317371c"
     },
     {
       "path": "node_modules/xml-naming/LICENSE",
