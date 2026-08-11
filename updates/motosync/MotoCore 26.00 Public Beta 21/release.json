@@ -1,0 +1,75 @@
+{
+  "title": "MotoCore 26.00 Public Beta 21",
+  "version": "MotoCore 26.00 Public Beta 21",
+  "changelog": "",
+  "forceUpdate": false,
+  "zipSha256": "f5a6525681edf028b7f0d993c5909e9aa578963baf152576911b02f7db4e1c8d",
+  "sizeBytes": 442582,
+  "files": [
+    {
+      "path": "estimate-html.js",
+      "sha256": "d25b2ae2751349ecef98e06488b61d47307f8c4658bb7f3aa326ab95b80adf4a"
+    },
+    {
+      "path": "estimate-template.js",
+      "sha256": "41e19a0a67fd4bbd3cf887bd8dc05fb23043314de327d55e5490f381b9f86c47"
+    },
+    {
+      "path": "index.html",
+      "sha256": "0f1bf0d9261610088ae816efbf6dd04e3d3a212f350fb2507727d9067f1b2ea2"
+    },
+    {
+      "path": "main-bootloader.js",
+      "sha256": "b944b2134b58045fe0fb739542c82eeb75b3741ba089186ee292242233575955"
+    },
+    {
+      "path": "main.js",
+      "sha256": "09c6be2f05711279e80f687f6bd0b9429568f3bf5c169d2e54a660e8b71df3bb"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "56593eb8b76b965881dca85cbfe7a223dfd657f361703108d00a332e98299989"
+    },
+    {
+      "path": "package.json",
+      "sha256": "b841b3d84f4a5c2bd6383353e960e7bd35d78d61865a71213d5bc639c9036e20"
+    },
+    {
+      "path": "preload.js",
+      "sha256": "a63a9607df1ca096f35370158ea8f98c1b5c14c6e9134d218e3a4942dc657d59"
+    },
+    {
+      "path": "renderer.js",
+      "sha256": "a631c0c18fb03e222ebd5ad2944053bfc04182f19a871bfbf093c71e13ea42bf"
+    },
+    {
+      "path": "assets/deskoperror.png",
+      "sha256": "5471992454caeff3842042737685f1d6c7bd55f0263a766648877295feee80e9"
+    },
+    {
+      "path": "assets/desktop.png",
+      "sha256": "ddec5e29888ef3c1bf43b28b27e535b18e2bc59b7ee78318074b7e79a657dc47"
+    },
+    {
+      "path": "assets/docx.png",
+      "sha256": "17f034d22ddf628a6357288dd59c607c858f7e313545a91b1cc85df666692132"
+    },
+    {
+      "path": "assets/icon-mail.png",
+      "sha256": "d07471643461541b04db5f77dc7fc36ec8486dae55a205fd611434c55b05a6bc"
+    },
+    {
+      "path": "assets/login-bg.jpg",
+      "sha256": "63557ea94fcc37abbab4ed05abda63d8b1b0675b1624d3b0c0ba52d73e368579"
+    },
+    {
+      "path": "assets/pdf.png",
+      "sha256": "eebdf1cab21771089cc32f83fd576ce4f61343da3d4c02e0af4333ba020ede4d"
+    },
+    {
+      "path": "assets/point.png",
+      "sha256": "7836f5355331c2b72a728ce9c3d37bc9c7251924c9cfb607c664f35a621c60d0"
+    }
+  ],
+  "icon": "updates/motosync/MotoCore 26.00 Public Beta 21/icon.jpg"
+}
