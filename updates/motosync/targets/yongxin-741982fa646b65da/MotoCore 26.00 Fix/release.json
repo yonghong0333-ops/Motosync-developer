@@ -2,8 +2,8 @@
   "title": "MotoCore 26.00 Fix",
   "version": "MotoCore 26.00 Fix",
   "changelog": "",
-  "forceUpdate": false,
-  "zipSha256": "fc5e0fab91acd895fe286a7c48d7fe7fda3e2470c34ca781d6a2a7b8c93f5f7f",
+  "forceUpdate": true,
+  "zipSha256": "bf81196be3b5301a3877952e9717f7cd6039c1749ebc82140ff94e6747650b73",
   "sizeBytes": 4122614,
   "files": [
     {
@@ -4750,5 +4750,6 @@
       "path": "assets/point.png",
       "sha256": "7836f5355331c2b72a728ce9c3d37bc9c7251924c9cfb607c664f35a621c60d0"
     }
-  ]
+  ],
+  "icon": "updates/motosync/targets/yongxin-741982fa646b65da/MotoCore 26.00 Fix/icon.jpg"
 }
