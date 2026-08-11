@@ -2,9 +2,9 @@
   "title": "MotoCore 26.00 Fix",
   "version": "MotoCore 26.00 Fix",
   "changelog": "",
-  "forceUpdate": false,
-  "zipSha256": "bb94f3a675d27076a8cde9e1a0d69d2daeaaf43a7414a65ec577296b8795026a",
-  "sizeBytes": 4122614,
+  "forceUpdate": true,
+  "zipSha256": "468fa969d8b47af4a84d231a576f9e0d54a57ce4ed3bc0721771626d981fbf48",
+  "sizeBytes": 4122982,
   "files": [
     {
       "path": "estimate-html.js",
@@ -20,7 +20,7 @@
     },
     {
       "path": "main-bootloader.js",
-      "sha256": "b944b2134b58045fe0fb739542c82eeb75b3741ba089186ee292242233575955"
+      "sha256": "a115acd4ed3cd2b766b3b90876ad6edaa8c293d6f848eefd273764a884e07783"
     },
     {
       "path": "main.js",
@@ -40,7 +40,7 @@
     },
     {
       "path": "renderer.js",
-      "sha256": "a631c0c18fb03e222ebd5ad2944053bfc04182f19a871bfbf093c71e13ea42bf"
+      "sha256": "dd0b1fa15b3b7633eaa962c4c60164e6856b4a2775e9b5258edb00f81872a6a2"
     },
     {
       "path": "node_modules/xml-naming/LICENSE",
@@ -4750,5 +4750,6 @@
       "path": "assets/point.png",
       "sha256": "7836f5355331c2b72a728ce9c3d37bc9c7251924c9cfb607c664f35a621c60d0"
     }
-  ]
+  ],
+  "icon": "updates/motosync/MotoCore 26.00 Fix/icon.jpg"
 }
