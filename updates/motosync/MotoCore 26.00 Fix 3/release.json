@@ -3,8 +3,8 @@
   "version": "MotoCore 26.00 Fix 3",
   "changelog": "",
   "forceUpdate": false,
-  "zipSha256": "2f34c0e9326c8686877d1196847fb669e8a6c0680ab1c225c12665d606cc64ce",
-  "sizeBytes": 4123473,
+  "zipSha256": "e84a1a9aef6b41fbef678f227d7aed4095028993eef6d876374c3e570a590bcc",
+  "sizeBytes": 4124664,
   "files": [
     {
       "path": "estimate-html.js",
@@ -20,7 +20,7 @@
     },
     {
       "path": "main-bootloader.js",
-      "sha256": "a2db1390058727cf49b72f14c8febde25fc183c1ae7e0cc49f70ea8009d93a7e"
+      "sha256": "f0bca3ca611c5194d3401fd3c3acf748a147465c03b6edc2b11dd355c55e969f"
     },
     {
       "path": "main.js",
@@ -40,7 +40,7 @@
     },
     {
       "path": "renderer.js",
-      "sha256": "dd0b1fa15b3b7633eaa962c4c60164e6856b4a2775e9b5258edb00f81872a6a2"
+      "sha256": "321eac7d1fec9811e2172e8627aadff35050ac4fddae8e5f733b7ddfa7deda37"
     },
     {
       "path": "node_modules/xml-naming/LICENSE",
