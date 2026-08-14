@@ -3,8 +3,8 @@
   "version": "MotoCore 26.00 Public Preview 2",
   "changelog": "MotoCore 26.00 Public Preview \n\n本版本代表 MotoCore 正式進入公開預覽階段，讓使用者能夠提前體驗目前正在開發中的系統功能、操作介面以及整體使用體驗。透過此次公開預覽，我們希望在正式版本推出之前，獲得更多實際使用情境下的回饋，並持續改善系統的穩定性、效能與操作體驗。\n\n作為 MotoCore 的第一個公開預覽版本，本版本將作為後續更新與開發的重要基礎。部分功能目前可能仍處於開發或調整階段，未來版本可能會針對功能、介面、操作方式及系統架構進行修改或優化。\n\n在預覽期間，使用者可能會遇到尚未發現的錯誤、功能限制或其他非預期情況。這些問題並不代表最終正式版本的品質，開發團隊將持續根據測試結果與使用者回饋進行修正。\n\n本版本的主要目的：\n\n首次向使用者公開 MotoCore\n提供新功能與系統介面的實際體驗\n收集實際使用過程中的問題與回饋\n改善系統穩定性與整體效能\n為後續 Public Preview 更新及正式版本建立基礎\n這是 MotoCore 公開預覽階段的第一步。隨著後續版本推出，MotoCore 將持續加入新功能、修正問題並進行系統最佳化。\n加入了自動判斷軟體尺寸之功能\n\n感謝您參與 MotoCore 26.00 Public Preview。\n您的每一次使用與回饋，都將協助 MotoCore 朝向更完整、更穩定的正式版本持續進步。",
   "forceUpdate": false,
-  "zipSha256": "5388f16ecc2569dfe1a10b64f6a9c050656a5beb60cb9aa7977481d7e29a0e0e",
-  "sizeBytes": 4132481,
+  "zipSha256": "c396663b71f3ae3f0408a841f8e2b7186877ddce3410cd4d777d3d238b3a6294",
+  "sizeBytes": 4132871,
   "files": [
     {
       "path": "estimate-html.js",
@@ -20,7 +20,7 @@
     },
     {
       "path": "main-bootloader.js",
-      "sha256": "5320320127eb8ea49980d4beaa23f9e82fb63e02c52e4295c85c91ec71f1caff"
+      "sha256": "3804e027336df0f66c67829ae9ddfb790b95e7472cf6bcf3f5417df53d36fc04"
     },
     {
       "path": "main.js",
