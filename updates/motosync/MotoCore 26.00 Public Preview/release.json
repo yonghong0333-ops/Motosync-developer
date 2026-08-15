@@ -1,10 +1,10 @@
 {
   "title": "MotoCore 26.00 Public Preview",
   "version": "MotoCore 26.00 Public Preview",
-  "changelog": "MotoCore 26.00 Public Preview \n\n本版本代表 MotoCore 正式進入公開預覽階段，讓使用者能夠提前體驗目前正在開發中的系統功能、操作介面以及整體使用體驗。透過此次公開預覽，我們希望在正式版本推出之前，獲得更多實際使用情境下的回饋，並持續改善系統的穩定性、效能與操作體驗。\n\n作為 MotoCore 的第一個公開預覽版本，本版本將作為後續更新與開發的重要基礎。部分功能目前可能仍處於開發或調整階段，未來版本可能會針對功能、介面、操作方式及系統架構進行修改或優化。\n\n在預覽期間，使用者可能會遇到尚未發現的錯誤、功能限制或其他非預期情況。這些問題並不代表最終正式版本的品質，開發團隊將持續根據測試結果與使用者回饋進行修正。\n\n本版本的主要目的：\n\n首次向使用者公開 MotoCore\n提供新功能與系統介面的實際體驗\n收集實際使用過程中的問題與回饋\n改善系統穩定性與整體效能\n為後續 Public Preview 更新及正式版本建立基礎\n這是 MotoCore 公開預覽階段的第一步。隨著後續版本推出，MotoCore 將持續加入新功能、修正問題並進行系統最佳化。\n\n感謝您參與 MotoCore 26.00 Public Preview。\n您的每一次使用與回饋，都將協助 MotoCore 朝向更完整、更穩定的正式版本持續進步。",
-  "forceUpdate": true,
-  "zipSha256": "f8ac6be9f7d1a7c346555123059654da2eadaef9c016271077f860e3a5fad329",
-  "sizeBytes": 4127903,
+  "changelog": "本版本代表 MotoCore 正式進入公開預覽階段，讓使用者能夠提前體驗目前正在開發中的系統功能、操作介面以及整體使用體驗。透過此次公開預覽，我們希望在正式版本推出之前，獲得更多實際使用情境下的回饋，並持續改善系統的穩定性、效能與操作體驗。\n\n作為 MotoCore 的第一個公開預覽版本，本版本將作為後續更新與開發的重要基礎。部分功能目前可能仍處於開發或調整階段，未來版本可能會針對功能、介面、操作方式及系統架構進行修改或優化。\n\n在預覽期間，使用者可能會遇到尚未發現的錯誤、功能限制或其他非預期情況。這些問題並不代表最終正式版本的品質，開發團隊將持續根據測試結果與使用者回饋進行修正。\n\n本版本的主要目的：\n\n首次向使用者公開 MotoCore\n提供新功能與系統介面的實際體驗\n收集實際使用過程中的問題與回饋\n改善系統穩定性與整體效能\n為後續 Public Preview 更新及正式版本建立基礎\n這是 MotoCore 公開預覽階段的第一步。隨著後續版本推出，MotoCore 將持續加入新功能、修正問題並進行系統最佳化。\n\n感謝您參與 MotoCore 26.00 Public Preview。\n您的每一次使用與回饋，都將協助 MotoCore 朝向更完整、更穩定的正式版本持續進步。",
+  "forceUpdate": false,
+  "zipSha256": "eef4efb2298857300bd814ab4482c23cb69df4df9a333045d5ad5ff87754a941",
+  "sizeBytes": 4143899,
   "files": [
     {
       "path": "estimate-html.js",
@@ -20,11 +20,11 @@
     },
     {
       "path": "main-bootloader.js",
-      "sha256": "4303e7b6de80e076a6070255a67c1b5747e070831ddddab12e366360ce6ba3e0"
+      "sha256": "e8fbed6231baa146ffe3c8c5c2d6cb0c4df23c8f845fd85df72c1e15f1314f47"
     },
     {
       "path": "main.js",
-      "sha256": "09c6be2f05711279e80f687f6bd0b9429568f3bf5c169d2e54a660e8b71df3bb"
+      "sha256": "ad2f351044ee1fe5c00bb04d436ec72323e1caf179b8fcdd5bd6356e72bb6811"
     },
     {
       "path": "package-lock.json",
@@ -36,11 +36,11 @@
     },
     {
       "path": "preload.js",
-      "sha256": "4e941d26b9f1ba3b0cddc42f1575a00515f8ce58430a9632e2b724e70cdbe8af"
+      "sha256": "51c261fc595b517816c4b132fd3e05808f7c5b13093ae649caec02039a84c962"
     },
     {
       "path": "renderer.js",
-      "sha256": "74688c462729ddce2944594270aaf235cb7438eda6e0b9eacc7f01574d557f14"
+      "sha256": "36c7367eeb0448dd3c3d1cced4d5a1c8348a912d9fe8446d7bbd7629290c323e"
     },
     {
       "path": "node_modules/xml-naming/LICENSE",
